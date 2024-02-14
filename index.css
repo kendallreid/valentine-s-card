@@ -1,0 +1,26 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 10%;
+    background-color:lightblue;
+}
+
+.message{
+    font-size: 30px;
+    font-weight: bold;
+    color:black;
+}
+
+.heart{
+    width: 400px;
+}
+
+.yes, .no{
+    border: none;
+    width: 80px;
+    height: 50px;
+    border-radius: 10px;
+    background-color:mediumturquoise;
+    font-weight: bolder;
+    margin-top: 4%;
+}
